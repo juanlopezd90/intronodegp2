@@ -1,0 +1,25 @@
+{
+  "name": "intronode",
+  "version": "1.0.0",
+  "description": "intronode descripcion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanlopezd90/intronodegp2.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "juanlopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanlopezd90/intronodegp2/issues"
+  },
+  "homepage": "https://github.com/juanlopezd90/intronodegp2#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
